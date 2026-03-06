@@ -1,0 +1,60 @@
+.main-loginpage-div{
+    display: flex;
+    height: 89vh;
+}
+.img-tag-login-page{
+    height: 100%;
+    width: 100%;
+    
+}
+.form-parent-tag{
+    display: flex;
+    flex-direction: column;
+  
+}
+.track_expense_text{
+    font-size: 25px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FE735D;
+}
+.Formsubmit-button{
+    height: 30px;
+    width: 100px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+}
+
+.Dont-haveacc{
+    font-size: 13px;
+}
+.forgot-pas{
+    font-size: 13px;
+}
+
+.maincontainer-loginform{
+    width: 50%;
+    height: 89vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner-container-loginform{
+    width: 70%;
+    height: 49vh;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 50px 5px;
+}
+.last-text{
+    align-items: center;
+    height: 45px;
+    justify-content: space-between;
+}
+.forgot-pas,.Dont-haveacc{
+    text-decoration: underline;
+   color: #FE735D;
+}

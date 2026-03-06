@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-heading-app{
+       height: 56px;
+    width: 100%;
+    color: white;
+    background-color: #FE735D;
+}
